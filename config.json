@@ -1,0 +1,26 @@
+{
+  "area_change_reward": [
+    284,
+    718,
+    1,
+    0
+  ],
+  "area_boss": [
+    54,
+    248,
+    480,
+    535
+  ],
+  "area_open": [
+    181,
+    800,
+    222,
+    57
+  ],
+  "down_coordinate": [
+    522,
+    749
+  ],
+  "interval": 15,
+  "boss_index": 0
+}
